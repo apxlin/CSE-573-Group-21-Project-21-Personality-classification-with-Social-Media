@@ -2,19 +2,15 @@
 
 Group Members:
 
-Jiaxin Dai
-
-Qi Lin
-
-Prikanksha Maheshwari
-
-Varshil Chetankumar Shah
-
-Rahul Suddala
+Jiaxin Dai  
+Qi Lin  
+Prikanksha Maheshwari  
+Varshil Chetankumar Shah  
+Rahul Suddala  
 
 Dataset Link - https://drive.google.com/file/d/15v2umVbv1OarPfNrePH9V-KPk7qqA6Cg/edit
 
-Reference Paper - https://psycnet.apa.org/fulltext/2016-57141-003.pdf
+Reference Paper - https://psycnet.apa.org/fulltext/2016-57141-003.pdf  
                 - https://www.pnas.org/doi/full/10.1073/pnas.1218772110
 
 Steps to Run:
