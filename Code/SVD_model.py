@@ -69,8 +69,8 @@ for i in range(5):
 # K-means clustering with SVD scores
 kmeans_svd = KMeans(n_clusters=5, random_state=42)
 kmeans_svd_result = kmeans_svd.fit_predict(user_svd_scores)
-
-
+users['kmeans_svd_cluster'] = kmeans_svd_result
+users.to_csv("/home/local/ASUAD/qlin36/CSE-573-Group-21-Project-21-Personality-classification-with-Social-Media/Data/filtered_users.csv", index=False)
 
 # Plot k-means clusters with SVD scores
 plt.figure(figsize=(10, 6))
